@@ -1,0 +1,1451 @@
+[
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "twitch.tv",
+    "pattern": "://*.twitch.tv/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "youtube.com",
+    "pattern": "://*.youtube.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "whatsapp.com",
+    "pattern": "://*.whatsapp.com/*",
+    "active": false
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "instagram.com",
+    "pattern": "://*.instagram.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "openai.com",
+    "pattern": "://*.openai.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "geeksforgeeks.org",
+    "pattern": "://*.geeksforgeeks.org/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "cdninstagram.com",
+    "pattern": "://*.cdninstagram.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "facebook.com",
+    "pattern": "://*.facebook.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "fburl.com",
+    "pattern": "://*.fburl.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "fbcdn.net",
+    "pattern": "://*.fbcdn.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "freegeoip.net",
+    "pattern": "://*.freegeoip.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "twitchcdn.net",
+    "pattern": "://*.twitchcdn.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "meta.com",
+    "pattern": "://*.meta.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "internalfb.com",
+    "pattern": "://*.internalfb.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ggpht.com",
+    "pattern": "://*.ggpht.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ytimg.com",
+    "pattern": "://*.ytimg.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "googleapis.com",
+    "pattern": "://*.googleapis.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "googlevideo.com",
+    "pattern": "://*.googlevideo.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "activationtrouble.com",
+    "pattern": "://*.activationtrouble.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord.com",
+    "pattern": "://*.discord.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "discordstatus.com",
+    "pattern": "://*.discordstatus.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "themoviedb.org",
+    "pattern": "://*.themoviedb.org/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mdb.org",
+    "pattern": "://*.tmdb.org/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "oaistatic.com",
+    "pattern": "://*.oaistatic.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jtvnw.net",
+    "pattern": "://*.jtvnw.net/*",
+    "active": false
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "sentry.io",
+    "pattern": "://*.sentry.io/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ttvnw.net",
+    "pattern": "://*.ttvnw.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "reddit.com",
+    "pattern": "://*.reddit.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "redditstatic.com",
+    "pattern": "://*.redditstatic.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "tiktok.com",
+    "pattern": "://*.tiktok.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "byteoversea.com",
+    "pattern": "://*.byteoversea.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "atlassian.com",
+    "pattern": "://*.atlassian.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "spotify.com",
+    "pattern": "://*.spotify.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "scdn.co",
+    "pattern": "://*.scdn.co/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "vmware.com",
+    "pattern": "://*.vmware.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "coinbase.com",
+    "pattern": "://*.coinbase.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "lastpass.com",
+    "pattern": "://*.lastpass.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "similarweb.com",
+    "pattern": "://*.similarweb.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "twitter.com",
+    "pattern": "://*.twitter.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "twimg.com",
+    "pattern": "://*.twimg.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "uniswap.org",
+    "pattern": "://*.uniswap.org/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "quora.com",
+    "pattern": "://*.quora.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "promeai.com",
+    "pattern": "://*.promeai.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bing.com",
+    "pattern": "://*.bing.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "microsoft.com",
+    "pattern": "://*.microsoft.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "wordpress.com",
+    "pattern": "://*.wordpress.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "wp.com",
+    "pattern": "://*.wp.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "pcmag.com",
+    "pattern": "://*.pcmag.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "exodus.com",
+    "pattern": "://*.exodus.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "fontawesome.com",
+    "pattern": "://*.fontawesome.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "facebook.net",
+    "pattern": "://*.facebook.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "algolia.net",
+    "pattern": "://*.algolia.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "algolianet.com",
+    "pattern": "://*.algolianet.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "semrush.com",
+    "pattern": "://*.semrush.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "owox.com",
+    "pattern": "://*.owox.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "websitebuilderexpert.com",
+    "pattern": "://*.websitebuilderexpert.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "kinsta.com",
+    "pattern": "://*.kinsta.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ovenadd.com",
+    "pattern": "://*.ovenadd.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "mozilla.org",
+    "pattern": "://*.mozilla.org/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "smtp.com",
+    "pattern": "://*.smtp.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "yithemes.com",
+    "pattern": "://*.yithemes.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "myetherwallet.com",
+    "pattern": "://*.myetherwallet.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "alphawallet.com",
+    "pattern": "://*.alphawallet.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "web.dev",
+    "pattern": "://*.web.dev/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "document360.com",
+    "pattern": "://*.document360.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "readthedocs.com",
+    "pattern": "://*.readthedocs.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "delosinc.com",
+    "pattern": "://*.delosinc.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "Google Recaptcha",
+    "pattern": "://*.google.com/*recaptcha/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "Google Console Cloud",
+    "pattern": "://*.console.cloud.google.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "Google Cloud",
+    "pattern": "://*.cloud.google.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "websitebuilderinsider.com",
+    "pattern": "://*.websitebuilderinsider.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "medium.com",
+    "pattern": "://*.medium.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "cloudflare.com",
+    "pattern": "://*.cloudflare.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "developers.google.com",
+    "pattern": "://*.developers.google.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "wordfence.com",
+    "pattern": "://*.wordfence.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hp.com",
+    "pattern": "://*.hp.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "wired.com",
+    "pattern": "://*.wired.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "seoclarity.net",
+    "pattern": "://*.seoclarity.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "linktr.ee",
+    "pattern": "://*.linktr.ee/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "rankmath.com",
+    "pattern": "://*.rankmath.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "snipfeed.co",
+    "pattern": "://*.snipfeed.co/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebay.com",
+    "pattern": "://*.ebay.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebaystatic.com",
+    "pattern": "://*.ebaystatic.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ebayimg.com",
+    "pattern": "://*.ebayimg.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "t.me",
+    "pattern": "://*.t.me/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "telegram.org",
+    "pattern": "://*.telegram.org/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bestbuy.com",
+    "pattern": "://*.bestbuy.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bbystatic.com",
+    "pattern": "://*.bbystatic.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ensighten.com",
+    "pattern": "://*.ensighten.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "techradar.com",
+    "pattern": "://*.techradar.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "flipkart.com",
+    "pattern": "://*.flipkart.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "indiatimes.com",
+    "pattern": "://*.indiatimes.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "featuregates.org",
+    "pattern": "://*.featuregates.org/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "statsigapi.net",
+    "pattern": "://*.statsigapi.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "paas.net",
+    "pattern": "://*.paas.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "onetrust.com",
+    "pattern": "://*.onetrust.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "impactcdn.com",
+    "pattern": "://*.impactcdn.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "whatsapp.net",
+    "pattern": "://*.whatsapp.net/*",
+    "active": false
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "wa.me",
+    "pattern": "://*.wa.me/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "intel.com",
+    "pattern": "://*.intel.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "pinterest.com",
+    "pattern": "://*.pinterest.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "pinimg.com",
+    "pattern": "://*.pinimg.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "vimeo.com",
+    "pattern": "://*.vimeo.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "vimeocdn.com",
+    "pattern": "://*.vimeocdn.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "aha-music.com",
+    "pattern": "://*.aha-music.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "picuki.com",
+    "pattern": "://*.picuki.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "notifications.google.com",
+    "pattern": "://*.notifications.google.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "opensource.com",
+    "pattern": "://*.opensource.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "soundcloud.com",
+    "pattern": "://*.soundcloud.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "tiktokv.com",
+    "pattern": "://*.tiktokv.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ttwstatic.com",
+    "pattern": "://*.ttwstatic.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "tiktokcdn.com",
+    "pattern": "://*.tiktokcdn.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "docker.com",
+    "pattern": "://*.docker.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "fandom.com",
+    "pattern": "://*.fandom.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "patreon.com",
+    "pattern": "://*.patreon.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "getfoxyproxy.org",
+    "pattern": "://*.getfoxyproxy.org/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "youtu.be",
+    "pattern": "://*.youtu.be/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "billboard.com",
+    "pattern": "://*.billboard.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "kick.com",
+    "pattern": "://*.kick.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "gstatic.com",
+    "pattern": "://*.gstatic.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "www8-hp.com",
+    "pattern": "://*.www8-hp.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "coinmarketcap.com",
+    "pattern": "://*.coinmarketcap.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "discordapp.com",
+    "pattern": "://*.discordapp.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "discord.gg",
+    "pattern": "://*.discord.gg/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "cloudfront.net",
+    "pattern": "://*.cloudfront.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "linux.com",
+    "pattern": "://*.linux.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "chatgpt.com",
+    "pattern": "://*.chatgpt.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "carrd.co",
+    "pattern": "://*.carrd.co/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "huawei.com",
+    "pattern": "://*.huawei.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "fedoraproject.org",
+    "pattern": "://*.fedoraproject.org/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "buymeacoffee.com",
+    "pattern": "://*.buymeacoffee.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "freedesktop.org",
+    "pattern": "://*.freedesktop.org/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "stackoverflow.com",
+    "pattern": "://*.stackoverflow.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "sstatic.net",
+    "pattern": "://*.sstatic.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "groups.google.com",
+    "pattern": "://*.groups.google.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "launchpad.net",
+    "pattern": "://*.launchpad.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "spotifycdn.com",
+    "pattern": "://*.spotifycdn.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "akamaized.net",
+    "pattern": "://*.akamaized.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "dell.com",
+    "pattern": "://*.dell.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "oracle.com",
+    "pattern": "://*.oracle.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "urbandictionary.com",
+    "pattern": "://*.urbandictionary.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "discordapp.net",
+    "pattern": "://*.discordapp.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "binance.com",
+    "pattern": "://*.binance.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "kernel.org",
+    "pattern": "://*.kernel.org/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "aiofilm.com",
+    "pattern": "://*.aiofilm.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "nasa.gov",
+    "pattern": "://*.nasa.gov/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "myanimelist.net",
+    "pattern": "://*.myanimelist.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "crunchyroll.com",
+    "pattern": "://*.crunchyroll.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "snapcraft.io",
+    "pattern": "://*.snapcraft.io/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "redhat.com",
+    "pattern": "://*.redhat.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "auth0.com",
+    "pattern": "://*.auth0.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "virtualbox.org",
+    "pattern": "://*.virtualbox.org/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "amazon.com",
+    "pattern": "://*.amazon.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "awsstatic.com",
+    "pattern": "://*.awsstatic.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "meshy.ai",
+    "pattern": "://*.meshy.ai/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "artstation.com",
+    "pattern": "://*.artstation.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "kemono.su",
+    "pattern": "://*.kemono.su/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "openssl.org",
+    "pattern": "://*.openssl.org/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "etsy.com",
+    "pattern": "://*.etsy.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "etsystatic.com",
+    "pattern": "://*.etsystatic.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "onlyfans.com",
+    "pattern": "://*.onlyfans.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "ibm.com",
+    "pattern": "://*.ibm.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "aeza.net",
+    "pattern": "://*.aeza.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "cryptomus.com",
+    "pattern": "://*.cryptomus.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "jquery.com",
+    "pattern": "://*.jquery.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "googlesyndication.com",
+    "pattern": "://*.googlesyndication.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "programiz.com",
+    "pattern": "://*.programiz.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "litefinance.org",
+    "pattern": "://*.litefinance.org/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "x.com",
+    "pattern": "://*.x.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "play.google.com",
+    "pattern": "://*.play.google.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "expertia.pro",
+    "pattern": "://*.expertia.pro/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "expertia.ai",
+    "pattern": "://*.expertia.ai/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "linkedin.com",
+    "pattern": "://*.linkedin.com/*",
+    "active": false
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "licdn.com",
+    "pattern": "://*.licdn.com/*",
+    "active": false
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "demdex.net",
+    "pattern": "://*.demdex.net/*",
+    "active": false
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "cedexis.com",
+    "pattern": "://*.cedexis.com/*",
+    "active": false
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "amazonaws.com",
+    "pattern": "://*.amazonaws.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "wikihow.com",
+    "pattern": "://*.wikihow.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "app.link",
+    "pattern": "://*.app.link/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "tradingview.com",
+    "pattern": "://*.tradingview.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hiddify.com",
+    "pattern": "://*.hiddify.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "t.co",
+    "pattern": "://*.t.co/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bit.ly",
+    "pattern": "://*.bit.ly/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "imdb.com",
+    "pattern": "://*.imdb.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "media-imdb.com",
+    "pattern": "://*.imedia-imdb.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "techonthenet.com",
+    "pattern": "://*.techonthenet.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "cnn.com",
+    "pattern": "://*.cnn.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "bilibili.com",
+    "pattern": "://*.bilibili.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "huya.com",
+    "pattern": "://*.huya.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "msstatic.com",
+    "pattern": "://*.msstatic.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "douyinpic.com",
+    "pattern": "://*.douyinpic.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "getallmylinks.com",
+    "pattern": "://*.getallmylinks.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "wandb.ai",
+    "pattern": "://*.wandb.ai/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "tutorialspoint.com",
+    "pattern": "://*.tutorialspoint.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "w3schools.com",
+    "pattern": "://*.w3schools.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "isitdownrightnow.com",
+    "pattern": "://*.isitdownrightnow.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartsuppchat.com",
+    "pattern": "://*.smartsuppchat.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartsupp.com",
+    "pattern": "://*.smartsupp.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "smartsuppcdn.com",
+    "pattern": "://*.smartsuppcdn.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "stackedit.io",
+    "pattern": "://*.stackedit.io/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "live.com",
+    "pattern": "://*.live.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "office.com",
+    "pattern": "://*.office.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "office.net",
+    "pattern": "://*.office.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "sharepointonline.com",
+    "pattern": "://*.sharepointonline.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "windows.net",
+    "pattern": "://*.windows.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "azureedge.net",
+    "pattern": "://*.azureedge.net/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "adobedc.net",
+    "pattern": "://*.adobedc.net/*",
+    "active": true
+  }
+]
