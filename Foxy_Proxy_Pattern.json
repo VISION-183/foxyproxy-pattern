@@ -18,7 +18,7 @@
     "type": "wildcard",
     "title": "whatsapp.com",
     "pattern": "://*whatsapp.com/*",
-    "active": false
+    "active": true
   },
   {
     "include": "include",
@@ -172,7 +172,7 @@
     "type": "wildcard",
     "title": "jtvnw.net",
     "pattern": "://*jtvnw.net/*",
-    "active": false
+    "active": true
   },
   {
     "include": "include",
@@ -683,7 +683,7 @@
     "type": "wildcard",
     "title": "whatsapp.net",
     "pattern": "://*whatsapp.net/*",
-    "active": false
+    "active": true
   },
   {
     "include": "include",
@@ -1208,14 +1208,14 @@
     "type": "wildcard",
     "title": "linkedin.com",
     "pattern": "://*linkedin.com/*",
-    "active": false
+    "active": true
   },
   {
     "include": "include",
     "type": "wildcard",
     "title": "licdn.com",
     "pattern": "://*licdn.com/*",
-    "active": false
+    "active": true
   },
   {
     "include": "include",
@@ -1467,6 +1467,97 @@
     "type": "wildcard",
     "title": "deepseek.com",
     "pattern": "://*deepseek.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "asus.com",
+    "pattern": "://*asus.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "donyayeserial.com",
+    "pattern": "://*donyayeserial.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "hi10anime.com",
+    "pattern": "://*hi10anime.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "co.uk",
+    "pattern": "://*co.uk/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "cursor.com",
+    "pattern": "://*cursor.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "tajrobe.wiki",
+    "pattern": "://*tajrobe.wiki/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "tiktokcdn-eu.com",
+    "pattern": "://*tiktokcdn-eu.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "khalifechi.com",
+    "pattern": "://*khalifechi.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "khalifechi.shop",
+    "pattern": "://*khalifechi.shop/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "webengage.co",
+    "pattern": "://*webengage.co/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "spotidownloader.com",
+    "pattern": "://*spotidownloader.com/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "purr.rip",
+    "pattern": "://*purr.rip/*",
+    "active": true
+  },
+  {
+    "include": "include",
+    "type": "wildcard",
+    "title": "intercomassets.com",
+    "pattern": "://*intercomassets.com/*",
     "active": true
   }
 ]
